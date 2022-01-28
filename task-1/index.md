@@ -1,1 +1,3 @@
 # Task 1
+#### Answer:
+The first benefit is that this model can support software applications on multiple platforms because we only need to modify the client end and use the same back end. Meanwhile, as it said in class, the client-server model helps servers handle many requests simultaneously. Also, Google says client-server models improve the functionality of any computer by using resources from other devices through a server.
