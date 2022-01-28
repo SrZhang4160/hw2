@@ -5,7 +5,8 @@ public class PaymentHistory {
   User user;
   
   public PaymentHistory(User user){
-		this.user = user;
+	this.user = user;
+	this.paymenthistory = paymenthistory;
   }
 
   public Boolean add(Payment payment) { 
