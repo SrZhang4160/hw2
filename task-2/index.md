@@ -1,1 +1,3 @@
-# Task 2
+# Task 2 
+#### Answer:
+From my point of view, I think taking full control over the server-side would be a better choice for study. As a beginner, I don't have enough understanding of server-side control. Only when we build it ourselves at least once can we get familiar with how it works. Also, building servers by ourselves can better fit some specific requirements of our software applications as well as reduce the cost. Meanwhile, in some cases that information security should be highly considered, we would better choose full control, such as software applications for a company.
